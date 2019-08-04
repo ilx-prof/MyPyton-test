@@ -1,0 +1,13 @@
+n = input()
+a1 = int(n[0])+int(n[1])+int(n[2])
+a2 = int(n[3])+int(n[4])+int(n[5])
+if a1 == a2:
+    print ("Счастливый")
+else:
+    print ("Обычный")
+    
+    
+            
+    
+    
+

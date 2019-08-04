@@ -1,0 +1,5 @@
+gen = input()
+g= int(gen.upper().count("g".upper()))
+c= int(gen.upper().count("c".upper()))
+l = len(gen)
+print (float(((g+c)/l))*100)
